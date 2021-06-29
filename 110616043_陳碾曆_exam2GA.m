@@ -93,4 +93,6 @@ for step=2:1000
     repi2=repi;
     
 end
- plot(remin)
+ plot(remin);
+ a=[1,2,3,4,5];
+ plot(a);
